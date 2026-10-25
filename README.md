@@ -1,0 +1,2 @@
+# ScripZan
+zan
